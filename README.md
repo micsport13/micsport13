@@ -5,7 +5,4 @@
 
 Here are some ideas to get you started:
 --!>
-My name is Noah Lawrence
-My major is Applied Statistics and Analytics at BYU
-I love learning Linux and programming in General
-
+I'm a passionate data engineer with a love for all things programming and computers. Constantly seeking to expand my knowledge, I thrive on the challenges of designing efficient data pipelines and optimizing databases. My expertise lies in Java, SQL, and Python. 
